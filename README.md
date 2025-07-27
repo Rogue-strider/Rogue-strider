@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400px" src="https://miro.medium.com/v2/resize:fit:1358/1*-KlOGKrl0EJsPWncAZ6FiQ.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rogue-strider&label=Profile%20views&color=0e75b6&style=flat" alt="rogue-strider" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/Rogue_Strider" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/rogue_strider?logo=twitter&style=for-the-badge" alt="https://x.com/rogue_strider" /></a> </p>
+<p align="left"> <a href="https://x.com/Rogue_Strider" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/rogue_strider?logo=twitter&style=for-the-badge" alt="https://x.com/rogue_strider" /></a> </p>
 
 - 🌱 I’m currently learning **WEB3, CyberSecurity**
 
@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/rogue_strider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/Rogue_Strider" height="30" width="40" /></a>
+<a href="https://x.com/Rogue_Strider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/Rogue_Strider" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/satyam-jha-a27365326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/satyam-jha-a27365326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/31154602/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/31154602/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/satyam_jha.111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/satyam_jha.111" height="30" width="40" /></a>
