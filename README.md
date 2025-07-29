@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://x.com/Rogue_Strider" target="blank"><img src="https://badgen.net/badge/follow/me?icon=twitter" /></a> </p>
 
-- 🌱 I’m currently learning **WEB3, CyberSecurity**
+- 🌱 I’m currently learning **WEB3, and Deepdiving in CyberSecurity**
 
 - 📫 How to reach me **satyamjha7573@gmail.com**
 
