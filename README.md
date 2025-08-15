@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/Rogue_Strider" target="blank"><img align="center" src="https://drive.google.com/file/d/1ChzBoDh8lIDb786MTqndnP6zgh21c_bJ/view?usp=drive_link" alt="Rogue_Strider" height="30" width="40" /></a>
+<a href="https://x.com/Rogue_Strider" target="blank"><img align="center" src="https://media.sketchfab.com/models/8a66de89107f44e2a9524f38d9ed7110/thumbnails/3cdfc6de78e84022936d3af7127a4ecf/79590e616bd349f6b6ee0e19bda3f14e.jpeg" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/satyam-jha-a27365326" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam-jha" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/31154602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="31154602" height="30" width="40" /></a>
 <a href="https://www.instagram.com/satyam_jha.111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satyam_jha.111" height="30" width="40" /></a>
