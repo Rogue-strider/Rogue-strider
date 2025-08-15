@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400px" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/Code%20-%20Dark-Code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rogue-strider&label=Profile%20views&color=0e75b6&style=flat" alt="rogue-strider" /> </p>
 
-<p align="left"> <a href="https://x.com/Rogue_Strider" target="_blank"><img src="https://drive.google.com/file/d/1ChzBoDh8lIDb786MTqndnP6zgh21c_bJ/view?usp=drive_link" alt="Follow on X" /></a> </p>
+<p align="left"> <a href="https://x.com/Rogue_Strider" target="_blank"><img src="https://img.shields.io/badge/Follow%20me-%40Rogue__Strider-1DA1F2?style=flat-square&logo=x" alt="Follow on X" /></a> </p>
 
 - 🌱 I’m currently learning **WEB3, and Deepdiving in CyberSecurity**
 
