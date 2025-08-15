@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satyam Jha</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
-<img align="right" alt="coding" width="400px" src="https://miro.medium.com/v2/resize:fit:1358/1*-KlOGKrl0EJsPWncAZ6FiQ.gif">
+<img align="right" alt="coding" width="400px" src="https://drive.google.com/file/d/1ChzBoDh8lIDb786MTqndnP6zgh21c_bJ/view?usp=drive_link">
 <img align="right" alt="coding" width="400px" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/Code%20-%20Dark-Code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rogue-strider&label=Profile%20views&color=0e75b6&style=flat" alt="rogue-strider" /> </p>
 
