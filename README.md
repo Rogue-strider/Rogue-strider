@@ -22,7 +22,7 @@
 <a href="https://stackoverflow.com/users/31154602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="31154602" height="30" width="40" /></a>
 <a href="https://www.instagram.com/satyam_jha.111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satyam_jha.111" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/satyamjc8xw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="satyamjc8xw" height="30" width="40" /></a>
-  <a href="https://discord.gg/rogueninja_32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rogueninja_32" height="30" width="40" /></a>
+  <a href="https://discord.com/users/rogueninja_32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rogueninja_32" height="30" width="40" /></a>
 </p>
 
 
