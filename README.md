@@ -7,11 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=rogue-strider&label=Profile%20views&color=0e75b6&style=flat" alt="rogue-strider" /> 
 </p>
 
-<p align="left"> 
-  <a href="https://x.com/Rogue_Strider" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20me-%40Rogue__Strider-1DA1F2?style=flat-square&logo=x" alt="Follow on X" />
-  </a> 
-</p>
 
 ## 🚀 About Me
 
