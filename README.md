@@ -1,45 +1,57 @@
-<h1 align="center">Hi 👋, I'm Satyam Jha</h1>
-<h3 align="center">A passionate MERN Stack and Blockchain developer from India</h3>
+<div align="center">
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/Code%20-%20Dark-Code.gif">
+# Satyam Jha
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=rogue-strider&label=Profile%20views&color=0e75b6&style=flat" alt="rogue-strider" /> 
-</p>
+### MERN Stack · Blockchain · Web3 · Cybersecurity
 
+[![Profile Views](https://komarev.com/ghpvc/?username=rogue-strider&label=Profile+Views&color=0e75b6&style=flat-square)](https://github.com/rogue-strider)
 
-## 🚀 About Me
-
-- 🌱 I'm currently learning **WEB3, and Deepdiving in CyberSecurity**
-- 💼 MERN Stack Developer with a passion for Blockchain technology
-- 📫 How to reach me: **satyamjha7573@gmail.com**
-
-## 🌐 Connect with me:
-
-<p align="left">
-<a href="https://x.com/Rogue_Strider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x/twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/satyam-jha-a27365326" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam-jha" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/31154602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="31154602" height="30" width="40" /></a>
-<a href="https://www.instagram.com/satyam_jha.111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satyam_jha.111" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/satyamjc8xw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="satyamjc8xw" height="30" width="40" /></a>
-  <a href="https://discord.com/users/rogueninja_32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rogueninja_32" height="30" width="40" /></a>
-</p>
-
-
-## 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rogue-strider&show_icons=true&locale=en&layout=compact&theme=dracula" alt="rogue-strider" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rogue-strider&show_icons=true&locale=en&theme=dracula" alt="rogue-strider" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rogue-strider&theme=dracula" alt="rogue-strider" />
-</p>
+</div>
 
 ---
 
-<p align="center">💡 <i>Open to collaborating on interesting Web3 and Full-Stack projects!</i></p>
+## 👨‍💻 About Me
+
+I'm a passionate **MERN Stack & Blockchain developer** from India, currently deepdiving into **Web3** and **Cybersecurity**. I love building scalable full-stack applications and exploring the decentralized web.
+
+- 🌱 Currently learning **Web3 & Solidity**, deepdiving into **CyberSecurity**
+- 🔭 Building at the intersection of **Full-Stack** and **Blockchain**
+- 💬 Ask me about **React, Node.js, MongoDB, Solidity, Smart Contracts**
+- 📫 Reach me at **satyamjha7573@gmail.com**
+- ⚡ Open to collaborating on interesting **Web3 & Full-Stack** projects
+
+---
+
+## 🌐 Connect With Me
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Rogue_Strider)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-jha-a27365326)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31154602)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/satyam_jha.111)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/satyamjc8xw/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/rogueninja_32)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rogue-strider&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rogue-strider&layout=compact&theme=dracula&hide_border=true" height="165" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rogue-strider&theme=dracula&hide_border=true)](https://github.com/rogue-strider)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Building the decentralized future, one block at a time."*
+
+</div>
