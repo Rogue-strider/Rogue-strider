@@ -19,9 +19,9 @@ MERN Stack & Blockchain Developer from India, currently exploring Web3 and Cyber
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=rogue-strider&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rogue-strider&layout=compact&theme=default&hide_border=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=rogue-strider&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rogue-strider&layout=compact&theme=dracula&hide_border=true" height="160" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rogue-strider&theme=default&hide_border=true)](https://github.com/rogue-strider)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rogue-strider&theme=dracula&hide_border=true)](https://github.com/rogue-strider)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rogue-strider&color=grey&style=flat-square)
